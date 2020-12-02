@@ -1,0 +1,1 @@
+gcc -g -lSDL2 -lm -Wall -Wextra -o burger burger.c
